@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^9.2.12"
+  },
+  "name": "qr-code-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
